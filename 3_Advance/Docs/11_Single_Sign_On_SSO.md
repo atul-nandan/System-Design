@@ -287,7 +287,6 @@
 
     🔹 Common examples of OAuth usage: API calls, and granting app permissions.
 
-    🔹 (Detailed coverage of OAuth is planned for a follow-up video/chapter.)
 
 **🔘 3. OpenID Connect (OIDC)**
 
